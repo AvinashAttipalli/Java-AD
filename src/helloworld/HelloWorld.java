@@ -4,7 +4,7 @@ package helloworld; // java package should be in lower case
 public class HelloWorld {
 
 //java is a case sensitive see the "main" method for instance
-
+//'main' method is start of every program
 	public static void main(String[] args) {
 
 		System.out.println("hello world!"); // shortcut - "sysout + enter "
